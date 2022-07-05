@@ -24,9 +24,9 @@ src="https://img.shields.io/twitter/follow/geekylorraine?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/slspoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/geekylorraine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href='https://ko-fi.com/U6U4S4WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/slspoon"><img src="https://github-readme-stats.vercel.app/api?username=slspoon&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="slspoon's GitHub stats" /></a>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#6366f1', 'U6U4S4WV');kofiwidget2.draw();</script> 
