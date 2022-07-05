@@ -28,3 +28,5 @@ src="https://img.shields.io/twitter/follow/geekylorraine?logo=twitter&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/slspoon"><img src="https://github-readme-stats.vercel.app/api?username=slspoon&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="slspoon's GitHub stats" /></a>
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#6366f1', 'U6U4S4WV');kofiwidget2.draw();</script> 
